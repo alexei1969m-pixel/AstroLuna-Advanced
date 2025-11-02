@@ -3,4 +3,4 @@ pyswisseph==2.10.3.2
 matplotlib==3.9.2
 python-dotenv==1.0.1
 pytz==2024.1
-urllib3==2.2.3
+urllib3==1.26.15
